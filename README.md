@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🎬 Online Doordarshan
 
@@ -214,4 +214,4 @@ This project is open source and available under the [MIT License](LICENSE).
 <div align="center">
   <b>Built with ❤️ by <a href="https://github.com/bhoot0911">bhoot0911</a></b>
 </div>
-]]>
+
