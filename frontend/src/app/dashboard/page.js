@@ -67,6 +67,9 @@ export default function DashboardPage() {
                             value={query}
                             onChange={(e) => setQuery(e.target.value)}
                         />
+                        <button type="submit" className="search-btn">
+                            Search
+                        </button>
                     </div>
                 </form>
 
