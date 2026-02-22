@@ -9,9 +9,9 @@ build/
 venv/
 env/
 
-# Data files (too large for GitHub)
-*.csv
-*.pkl
+# Data files (only exclude very large files)
+ratings.csv
+svd_model.pkl
 
 # Node
 node_modules/
